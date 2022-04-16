@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-own-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-16T02:44:23.555269192Z"
+    description: A Helm chart for Kubernetes
+    digest: 6be8230cfd1da6e46c0b21376863b7da52cc190594804058d9708573922e7e92
+    name: my-own-chart
+    type: application
+    urls:
+    - https://Jaesang.github.io/charts/my-own-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-16T02:44:23.553492382Z"
